@@ -5,3 +5,13 @@ p{
 	border: 2px dotted palegoldenrod;
 
 }
+a:link {
+	text-decoration:none;
+	background-color: transparent;
+	color: skyblue;
+}
+a:hover {
+	text-decoration: none;
+	background-color: palegoldenrod;
+	color: white;
+}
