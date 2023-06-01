@@ -5,6 +5,9 @@ p{
 	border: 2px dotted palegoldenrod;
 
 }
+a {
+	text-decoration: none;
+}
 a:link {
 	text-decoration:none;
 	background-color: transparent;
