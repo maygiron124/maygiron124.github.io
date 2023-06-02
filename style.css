@@ -27,3 +27,11 @@ table, th, td{
 tr:hover {
 	background-color: skyblue;
 }
+
+.div {
+	color: blue;
+}
+
+.div .main {
+	color: apricot;
+}
